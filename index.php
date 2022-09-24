@@ -149,14 +149,12 @@ else{
   </div>
 </div>
 </div>
-
-
-
 <?php
 }
-
-
 ?>
+
+
+
 <script src="https://cdn.jsdelivr.net/npm/boosted@5.1.3/dist/js/boosted.bundle.min.js" integrity="sha384-5thbp4uNEqKgkl5m+rMBhqR+ZCs+3iAaLIghPWAgOv0VKvzGlYKR408MMbmCjmZF" crossorigin="anonymous"></script>
 </body>
 </html>
